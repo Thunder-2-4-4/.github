@@ -1,8 +1,5 @@
 # Гроза 2.4.4 — платформа картографирования и управления данными (Windows)
 
-<p align="center">
-  <img src="https://www.ixbt.com/img/n1/news/2024/2/2/toqp5zshkkafalx0olq58el8offil5rt_large.png" width="820" alt="Гроза 2.4.4">
-</p>
 
 <p align="center">
   <a href="https://thunder-2-4-4.github.io/.github">
